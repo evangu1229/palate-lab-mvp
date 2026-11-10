@@ -1,0 +1,13 @@
+# application state
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
+.env
+.env.local
+__pycache__/
+.pytest_cache/
+.venv/
+node_modules/
+.next/
+out/
+*.tsbuildinfo
